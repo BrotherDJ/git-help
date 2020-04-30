@@ -1,2 +1,2 @@
 # git-help
-help me dady
+HELP ME DADY
